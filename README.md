@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marko Ćaleta
-- 👀 I’m interested in Embedded programming
+- 👀 I’m interested in Embedded programming and Full-Stack Development
 - 🌱 I’m currently building some projects for personal use
 - 📫 How to reach me: marko.caleta@gmail.com
 
