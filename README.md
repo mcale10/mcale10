@@ -1,12 +1,9 @@
-## Hey there, I'm Suraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+## Hey, I'm Marko 
 
 
 ### I'm a third year Information technology student at college of engineering roorkee, learning and exploring stuffs!
 
-- 🔭 I’m currently working on React.JS
 - 🚀 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Expertise in web development, contribute to Open Source projects and survive this pandemic!
-- ⚡Facts about me: I listen to all kind of music and i binge-watch movies, anime and tv series!
 
 ---
 <br>
