@@ -17,28 +17,10 @@
 
 <br>
 
-
-<p align="center">
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="400px" width="340px"> 
-
-<img src="https://octodex.github.com/images/heisencat.png" height="400px" width="340px"> 
- </p>
-
-
 ---
 
 ### Connect with me:
 
-[<img align="left" alt="suraj kumar| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Suraj kumar| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br>
+[instagram]: 
 
-
-<img align="left" alt="suraj's github stats" src="https://github-readme-stats-sooty-rho.vercel.app/api?username=surajat17&show_icons=true&theme=dracula" />
-
-
-
-
-[instagram]: https://instagram.com/it_iz_wht_it_is
-
-[linkedin]: https://www.linkedin.com/in/suraj-kumar-1538a0186
+[linkedin]: 
