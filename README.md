@@ -1,7 +1,7 @@
 ## Hey, I'm Marko 
 
 
-### I'm a third year Information technology student at college of engineering roorkee, learning and exploring stuffs!
+### I'm a Electrical engineer, and passionate about Web Development
 
 - 🚀 I’m looking to collaborate with other developers
 
