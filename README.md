@@ -1,9 +1,8 @@
 ## Hey, I'm Marko 
 
 
-### I'm a Electrical engineer, and passionate about Web Development
+### I'm a Electrical engineer, and passionate about Electronics and Web Development
 
-- 🚀 I’m looking to collaborate with other developers
 
 ---
 <br>
