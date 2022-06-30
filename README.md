@@ -21,4 +21,4 @@
 
 [instagram]: 
 
-[linkedin]: https://www.linkedin.com/in/marko-%C4%87aleta-633b081a3/
+[linkedin]: [https://www.linkedin.com/in/marko-%C4%87aleta-633b081a3/]
