@@ -21,4 +21,4 @@
 
 [instagram]: 
 
-[linkedin]: <a href="https://www.linkedin.com/in/marko-%C4%87aleta-633b081a3/"><i class="fab fa-linkedin-in"></i></a>
+[linkedin]: <a href="https://www.linkedin.com/in/marko-%C4%87aleta-633b081a3/"></a>
